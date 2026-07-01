@@ -1,0 +1,1 @@
+Apply the advice from [this article](https://pnpm.io/supply-chain-security).

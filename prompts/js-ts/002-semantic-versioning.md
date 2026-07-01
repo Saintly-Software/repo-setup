@@ -1,0 +1,1 @@
+Add a github workflow that verifies a PR title follows conventional commits.
