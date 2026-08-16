@@ -3,9 +3,9 @@ Create the following files:
 - `.env`
 - `.env.development`
 - `.env.staging`
-- `.env.prod`
-- `.env.development.local`
-- `.env.staging.local`
-- `.env.prod.local`
+- `.env.production`
+- `.env.development.secret`
+- `.env.staging.secret`
+- `.env.production.secret`
 
-The `.env.*.local` files should NOT be committed, and that pattern should be in the gitignore. All other `.env` files are OK to commit.
+The `.env.*.secret` files should NOT be committed, and that pattern should be in the gitignore. All other `.env` files are OK to commit.
