@@ -16,3 +16,5 @@ Initialize each of these dependencies appropriately. You should see config files
 Ensure `.gitignore` is set up correctly (ignores node_modules, etc.).
 
 Set `pnpm` as the `packageManager` in  `package.json` if not already done.
+
+Set the "engine" attribute in package.json to be in sync with the node version.
