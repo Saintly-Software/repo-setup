@@ -1,4 +1,4 @@
-Move all config files to a new `.config/` folder to clean up the root directory of the project.
+Move all config files and environment files to a new `.config/` folder to clean up the root directory of the project.
 
 Some exceptions:
 
