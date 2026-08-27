@@ -4,6 +4,7 @@ Create the following files:
 - `.env.development`
 - `.env.staging`
 - `.env.production`
+- `.env.local`
 - `.env.development.local`
 - `.env.staging.local`
 - `.env.production.local`
