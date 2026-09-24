@@ -13,6 +13,8 @@ Add the following dev dependencies:
 
 Initialize each of these dependencies appropriately. You should see config files (or something like that) for each of them.
 
+For oxlint and oxfmt, prefer TypeScript config files (`oxlint.config.ts`, `oxfmt.config.ts`) over JSON config files (`.oxlintrc.json`, `.oxfmtrc.json`). If JSON config files already exist, migrate them to `.ts` and delete the JSON versions.
+
 Ensure `.gitignore` is set up correctly (ignores node_modules, etc.).
 
 Set `pnpm` as the `packageManager` in  `package.json` if not already done.
