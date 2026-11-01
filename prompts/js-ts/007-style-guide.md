@@ -5,7 +5,7 @@ with **[Ordering of things](#ordering-of-things)** and add sections as house sty
 gets pinned down.
 
 Prose-level standards (`Pick` over `Omit`, marking methods `async`, the
-unit/integration test split) live in [`CLAUDE.md`](../CLAUDE.md); this doc is about
+unit/integration test split) live in [`CLAUDE.md`](../../.claude/CLAUDE.md); this doc is about
 the _shape_ of a file.
 
 ## Ordering of things
